@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\",
+  "WorkspaceRootPath": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\inputA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\inputA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\labA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\labA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\labA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printResultA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printResultA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\printResultA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\processA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\processA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\processA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\printA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\inputA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7039637D-783E-4BA4-A632-A6762CE44231}|Laba4\\Laba4.vcxproj|solutionrelative:Laba4\\inputA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,27 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "labA.h",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\labA.h",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\labA.h",
               "RelativeDocumentMoniker": "Laba4\\labA.h",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\labA.h",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\labA.h",
               "RelativeToolTip": "Laba4\\labA.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-15T19:53:12.101Z"
+              "WhenOpened": "2026-01-15T19:53:12.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\main.c",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\main.c",
               "RelativeDocumentMoniker": "Laba4\\main.c",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\main.c",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\main.c",
               "RelativeToolTip": "Laba4\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -63,23 +64,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "inputA.c",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\inputA.c",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\inputA.c",
               "RelativeDocumentMoniker": "Laba4\\inputA.c",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\inputA.c",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\inputA.c",
               "RelativeToolTip": "Laba4\\inputA.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-15T19:53:45.646Z"
+              "WhenOpened": "2026-01-15T19:53:45.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "printA.c",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printA.c",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printA.c",
               "RelativeDocumentMoniker": "Laba4\\printA.c",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printA.c",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printA.c",
               "RelativeToolTip": "Laba4\\printA.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -87,11 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "processA.c",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\processA.c",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\processA.c",
               "RelativeDocumentMoniker": "Laba4\\processA.c",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\processA.c",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\processA.c",
               "RelativeToolTip": "Laba4\\processA.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -99,11 +101,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "printResultA.c",
-              "DocumentMoniker": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printResultA.c",
+              "DocumentMoniker": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printResultA.c",
               "RelativeDocumentMoniker": "Laba4\\printResultA.c",
-              "ToolTip": "E:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Laba4\\Laba4\\printResultA.c",
+              "ToolTip": "D:\\6_RZ\\LR9\\Student1\\FinalWork\\Laba4\\Laba4\\printResultA.c",
               "RelativeToolTip": "Laba4\\printResultA.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",

@@ -1,7 +1,7 @@
 #include "labA.h"
 
 void inputA(int* A) {
-    int i;
+    int i1;
     FILE* f;
 
     for (i = 0; i < 20; ++i)
