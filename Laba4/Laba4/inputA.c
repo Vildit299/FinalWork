@@ -9,7 +9,7 @@ void inputA(int* A) {
 
     f = fopen("data", "w");
     for (i = 0; i < 20; ++i)
-        fprintf(f, "%d ", *(A + i));
+        fprintf(f, "%d\t", *(A + i));
     fprintf(f, "\n");
     fclose(f);
 }
