@@ -1,0 +1,32 @@
+﻿  inputA.c
+  main.c
+  printA.c
+E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "inputA.c")
+      E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "main.c")
+      E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "printA.c")
+      E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  printResultA.c
+E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "printResultA.c")
+      E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  processA.c
+E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  (компиляция исходного файла "processA.c")
+      E:\Лабораторные\Программирование\Laba4\Laba4\labA.h(4,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Создание кода...
+  Laba4.vcxproj -> E:\Лабораторные\Программирование\Laba4\x64\Debug\Laba4.exe
