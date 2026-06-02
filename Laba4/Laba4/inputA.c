@@ -1,11 +1,11 @@
 #include "labA.h"
 
 void inputA(int* A) {
-    int i1;
+    int i;
     FILE* f;
 
-    for (i = 0; i < 20; ++i)
-        *(A + i) = rand() % 101 - 50;
+    double cos_value = cos(i);
+    *(A + i) = (int)(cos_value);
 
     f = fopen("data", "w");
     for (i = 0; i < 20; ++i)
